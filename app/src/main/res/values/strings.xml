@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TextMark</string>
+    <string name="register_request">register</string>
+    <string name="login_request">login</string>
+    <string name="logout_request">logout</string>
+</resources>

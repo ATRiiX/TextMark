@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_entity1"
+        android:title="标记为左实体" />
+    <item
+        android:id="@+id/menu_entity2"
+        android:title="标记为右实体" />
+    <item
+        android:id="@+id/menu_relation"
+        android:title="标记为关系"/>
+
+</menu>
